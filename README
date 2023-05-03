@@ -1,0 +1,7 @@
+Command to run server: npm run dev
+- Server then runs on http://localhost:3000
+- All movies can be queried on /api/movies
+- Movies can be filtered by title with /api/movies/title/:input
+- Movies can be filtered by year with /api/movies/year/:input
+
+Command to run tests: npm test

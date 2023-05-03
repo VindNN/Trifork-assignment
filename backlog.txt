@@ -1,0 +1,20 @@
+TODO:
+
+IN PROGRESS:
+- Unit tests
+
+COMPLETED:
+- Setup database --> Movie table
+  - ID
+  - Title
+  - Year
+
+- Setup Express server API
+  - GET request, whole list --> SQL query
+  - GET request, containing (title) --> SQL query
+  - GET request, containing (year) --> SQL query
+
+- Upload CSV file
+- Update database with CSV file
+
+- Test on Postman
